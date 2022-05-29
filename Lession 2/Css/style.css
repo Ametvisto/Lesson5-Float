@@ -1,0 +1,189 @@
+.d-inline-block {
+    display: inline-block;
+}
+.main-box {
+    margin: 30px;
+}
+.date-bg {
+ background-color: #3D58A6;
+ height: 56px;
+ width: 56px;
+}
+.nav-a {
+    font-size: 22px;
+    width: 96px;
+    height: 60px;
+    color: #3D58A6;
+}
+   
+.active {
+    color: #EE4036;
+
+}
+.contact-title {
+    color: #3D58A6;
+    font-size: 20px;
+}
+
+.number {
+    font-size: 16px;
+    color: #999999;
+}
+.a-contact {
+    color: black;
+    
+}
+* {
+    box-sizing: border-box;
+}
+.nav-li {
+    display: inline-block;
+    vertical-align: middle;
+}
+.logo, 
+.navigation {
+    display: inline-block;
+    vertical-align: middle;
+    vertical-align: middle;
+    padding-bottom: 49px;
+
+    
+}
+
+.picture {
+    margin: 79px 98px 117px 98px;
+   
+}
+.satauri1 {
+margin-left: 98px;
+margin-bottom: 29px;
+font-size: 24px;
+}
+.left-box, 
+.right-box {
+    display: inline-block;
+    width: 570px;
+    background-color: #F2F2F2;
+    padding: 11px 11px 24px 20px;
+    
+}
+
+.left-box {
+    margin-right: 29px;
+    margin-left: 98px;
+}
+.h2 {
+    color: #3D58A6
+    
+}
+
+.image {
+    width: 100px;
+    height: 130px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 12px 60px 41px 12px;
+    
+    
+}
+.left-p {
+    display: inline-block;
+    width: 356px;   
+    font-size: 20px;
+    height: 143px;
+    vertical-align: middle;
+           
+}
+.image {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 12px 60px 41px 12px;
+    width: 100px;
+    height: 130px;
+}
+.left-p {
+    display: inline-block;
+    width: 356px;
+    font-size: 20px;
+    vertical-align: middle;
+}
+.footer {
+    margin: 68px 1242px 38px 109px;
+}
+.right-block-contact,
+.left-block-contact {
+   display: inline-block;
+   vertical-align: top;
+
+}
+
+.section-bg1 {
+    width: 1366px;
+    height: 570px;
+    background-color: #E6E6E6;
+    padding-bottom: 55px;
+    margin-top: 25px;
+   
+}
+.Container {
+    width: 1179px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 55px;
+}
+.fblogo {
+ margin-right: 35px;
+}
+.line {
+margin-right: 35px;
+}
+.date-bg {
+    color: #FFFFFF;
+    font-size: 48px;
+    padding: 10px;
+    
+}
+.month {
+    color: #3D58A6;
+    width: 63px;
+    font-size: 22px;
+    margin-bottom: 17.5px;
+}
+.satauri3 {
+    font-size: 20px;
+    margin-bottom: 17.5px;
+
+}
+.picture2 {
+    width: 270px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+
+}
+.articlenews {
+    display: inline-block; 
+    width: 929px;
+    font-size: 16px;
+    vertical-align: top; 
+
+}
+.p1 {
+  display: inline-block; 
+  vertical-align: top; 
+  margin-bottom: 30px;
+}
+
+.footer2 {
+    padding-left: 33px;
+}
+.nav-a {
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    font-size: 20px;
+}
+.contacth3 {
+    color: #3D58A6;
+    font-size: 20px;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+
